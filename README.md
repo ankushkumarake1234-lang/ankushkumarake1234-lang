@@ -15,6 +15,9 @@
 - AI Doctor / Symptom Checker
 - Notes App
 - Drum Kit
+- Hostel Management System
+- BMI Calculator
+- 
 
 ### 🌱 Currently Learning
 - Advanced JavaScript
