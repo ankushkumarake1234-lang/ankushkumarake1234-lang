@@ -5,7 +5,7 @@
 🔐 Cybersecurity Enthusiast  
 
 ### 🛠 Skills
-- HTML, CSS, JavaScript
+- HTML, CSS, JavaScript, Java, Python, DSA and Mathematics in AI
 - Node.js, Express
 - MongoDB
 - Git & GitHub
