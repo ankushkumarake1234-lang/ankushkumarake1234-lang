@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi 👋 I'm Ankush Kumar
 
-<!--
-**ankushkumarake1234-lang/ankushkumarake1234-lang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (AI) Student at ADYPU  
+💻 Full-Stack Web Developer  
+🔐 Cybersecurity Enthusiast  
 
-Here are some ideas to get you started:
+### 🛠 Skills
+- HTML, CSS, JavaScript
+- Node.js, Express
+- MongoDB
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects
+- Smart Health Tracker (Full-Stack)
+- AI Doctor / Symptom Checker
+- Notes App
+- Drum Kit
+
+### 🌱 Currently Learning
+- Advanced JavaScript
+- Backend APIs
+- Web Security
+
+### 📫 Contact
+📧 ankushkumarake1234@gmail.com  
+📍 Pune
