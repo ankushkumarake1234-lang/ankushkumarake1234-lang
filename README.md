@@ -223,7 +223,7 @@ graph LR
 ### 💌 Open for collaborations and opportunities!
 
 <p>
-  <img src="https://profound-muffin-4b3660.netlify.app/" alt="Profile views" />
+  <a href=https://profound-muffin-4b3660.netlify.app/>My Personal Website</a>
 </p>
 
 </div>
