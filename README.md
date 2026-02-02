@@ -223,7 +223,7 @@ graph LR
 ### 💌 Open for collaborations and opportunities!
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=ankushkumarake1234-lang&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
+  <img src="https://profound-muffin-4b3660.netlify.app/" alt="Profile views" />
 </p>
 
 </div>
