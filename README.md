@@ -28,8 +28,7 @@ const ankush = {
     currentFocus: ["Advanced JavaScript", "Backend APIs", "Web Security"],
     interests: ["Full-Stack Development", "Cybersecurity", "AI/ML"],
     askMeAbout: ["Web Dev", "Data Structures", "Security", "AI"],
-    funFact: "I debug with console.log() and I'm proud of it!
-    My Personal Website - https://profound-muffin-4b3660.netlify.app/🐛"
+    funFact: "I debug with console.log() and I'm proud of it!🐛"
 };
 ```
 
