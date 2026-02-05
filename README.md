@@ -147,6 +147,129 @@ const ankush = {
 
 </div>
 
+## 🎮 Game Development Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+### 🐦 Flappy Bird Clone  
+**Classic Arcade Game**
+
+🎮 Smooth gravity & jump mechanics  
+🧱 Pipe obstacle & collision detection  
+📈 Real-time score tracking  
+⚡ Optimized & responsive gameplay  
+
+</td>
+<td width="50%">
+
+### 🔢 Number Guessing Game  
+**Logic-Based Mini Game**
+
+🧠 Random number generation  
+🎯 User input validation  
+📊 Attempts counter  
+💡 Improves problem-solving skills  
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🧱 Platformer Game  
+**2D Platform Adventure**
+
+🦘 Jump & gravity physics  
+🧱 Tile-based level design  
+📷 Smooth camera movement  
+🎮 Player control system  
+
+</td>
+<td width="50%">
+
+### 🏓 Pong Game  
+**Retro Arcade Game**
+
+🎮 Paddle movement mechanics  
+⚽ Ball collision physics  
+👥 Two-player mode  
+📈 Score tracking system  
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🚗 Racing Game  
+**High-Speed Racing Experience**
+
+🏎️ Vehicle movement & controls  
+🛣️ Track & obstacle system  
+⏱️ Speed handling logic  
+🎮 Engaging racing mechanics  
+
+</td>
+<td width="50%">
+
+### 🔫 Shooting Game  
+**2D Action Shooter**
+
+🎯 Shooting & aiming mechanics  
+💥 Bullet & enemy collision  
+🧠 Basic enemy AI  
+❤️ Health & scoring system  
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🐍 Snake Game  
+**Classic Snake Arcade**
+
+🍎 Food spawning system  
+📏 Snake growth logic  
+💥 Wall & self collision detection  
+📊 Score tracking  
+
+</td>
+<td width="50%">
+
+### ❌⭕ Tic Tac Toe  
+**Two-Player Strategy Game**
+
+👥 Two-player gameplay  
+🧠 Win & draw condition logic  
+🔄 Restart game feature  
+🎨 Clean & minimal UI  
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🧟 Zombie Survival Game  
+**Wave-Based Survival Shooter**
+
+🧟 Zombie enemy AI  
+🌊 Wave-based spawn system  
+🔫 Weapon & shooting mechanics  
+❤️ Player health & survival system  
+
+</td>
+</tr>
+</table>
+
+</div>
+
+
 ---
 
 ## 📊 GitHub Analytics
