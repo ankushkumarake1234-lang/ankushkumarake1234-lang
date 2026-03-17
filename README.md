@@ -445,10 +445,57 @@ An interactive music experience with keyboard & mouse triggered drum sounds.
 
 ---
 
-## 🏆 GitHub Trophies
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░ TROPHY & ACHIEVEMENTS ░░░░░░░░░░░░░░░░░ -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 🏆 Achievements & Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ankushkumarake1234-lang&theme=discord&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
+
+<img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="40" /> &nbsp;
+<img src="https://img.shields.io/badge/✨%20Achievement-Showcase-FFD700?style=for-the-badge&labelColor=0D1117" />
+&nbsp; <img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="40" />
+
+<br/><br/>
+
+<!-- Main Trophy Display - Multiple Themes for 3D Effect -->
+<img src="https://github-profile-trophy.vercel.app/?username=ankushkumarake1234-lang&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" width="95%" />
+
+<br/>
+
+<!-- Second Row with Different Theme for Visual Depth -->
+<img src="https://github-profile-trophy.vercel.app/?username=ankushkumarake1234-lang&theme=radical&no-frame=true&no-bg=true&row=1&column=4&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S" width="60%" />
+
+<br/><br/>
+
+<!-- 3D Contribution Calendar -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankushkumarake1234-lang/ankushkumarake1234-lang/main/profile-3d-contrib/profile-night-view.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ankushkumarake1234-lang/ankushkumarake1234-lang/main/profile-3d-contrib/profile-green-animate.svg" />
+  <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/ankushkumarake1234-lang/ankushkumarake1234-lang/main/profile-3d-contrib/profile-night-view.svg" width="95%" />
+</picture>
+
+<br/>
+
+<!-- Animated Stats Cards -->
+<table>
+<tr>
+<td align="center">
+<img src="https://img.shields.io/badge/🎯_Total_Commits-Dedicated-6366F1?style=for-the-badge&labelColor=0D1117" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/⭐_Total_Stars-Growing-8B5CF6?style=for-the-badge&labelColor=0D1117" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/🔥_Contributions-Active-10B981?style=for-the-badge&labelColor=0D1117" />
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/🚀_Projects-Building-F59E0B?style=for-the-badge&labelColor=0D1117" />
+</td>
+</tr>
+</table>
+
 </div>
 
 ---
@@ -521,6 +568,47 @@ graph LR
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░░ PORTFOLIO SECTION ░░░░░░░░░░░░░░░░░░░░ -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## 🌐 My Portfolio
+
+<div align="center">
+
+<a href="https://ankush-kumar.netlify.app/">
+  <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-ankush--kumar.netlify.app-6366F1?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0D1117" alt="Portfolio" />
+</a>
+
+<br/><br/>
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/💼-Projects-6366F1?style=flat-square&labelColor=0D1117" />
+<br/><sub>Explore my work</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🧑‍💻-About%20Me-8B5CF6?style=flat-square&labelColor=0D1117" />
+<br/><sub>Know my story</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/🛠️-Skills-10B981?style=flat-square&labelColor=0D1117" />
+<br/><sub>Tech I work with</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/📬-Contact-F59E0B?style=flat-square&labelColor=0D1117" />
+<br/><sub>Let's connect</sub>
+</td>
+</tr>
+</table>
+
+> 🚀 **Check out my portfolio to see live demos, detailed project breakdowns, and more about my journey!**
+
+</div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
 <!-- ░░░░░░░░░░░░░░░░░░ CONNECT SECTION ░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
@@ -541,8 +629,8 @@ graph LR
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;
-  <a href="https://profound-muffin-4b3660.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
+  <a href="https://ankush-kumar.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
