@@ -33,7 +33,8 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hello, World! I'm Ankush Kumar
 
 > **🎓 B.Tech in Computer Science & Engineering (AI Specialization) — 2nd Year**  
-> **🏫 Ajeenkya DY Patil University (ADYPU), Pune, Maharashtra, India**
+> **🏫 Vedam School of Technology, Pune, Maharashtra, India**  
+> **🔗 Affiliated with Ajeenkya DY Patil University (ADYPU)**
 
 I'm a passionate and driven developer who loves building **full-stack web applications**, exploring **artificial intelligence & machine learning**, and diving deep into **cybersecurity**. I believe in writing clean, efficient code and creating digital experiences that truly make a difference.
 
@@ -43,7 +44,7 @@ I'm a passionate and driven developer who loves building **full-stack web applic
 
 ### 🧑‍💻 Quick Snapshot
 
-- 🔭 **Currently Working On:** Full-stack health & AI-driven apps
+- 🔭 **Currently Working On:** [AI Resume Analyzer](https://github.com/ankushkumarake1234-lang) & AI-driven apps
 - 🌱 **Currently Learning:** Advanced JavaScript, RESTful APIs, Web Security
 - 🤖 **Exploring:** AI/ML integration in web platforms
 - 🎯 **2025–26 Goal:** Contribute to impactful open-source projects
@@ -155,8 +156,56 @@ I'm a passionate and driven developer who loves building **full-stack web applic
 ## 🚀 Featured Projects
 
 <div align="center">
+<p>
+  <img src="https://img.shields.io/badge/Total%20Projects-6+-6366F1?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20AI-8B5CF6?style=for-the-badge&logo=code&logoColor=white" />
+</p>
+</div>
+
+<div align="center">
 
 <table>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">📄 AI Resume Analyzer</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Powered-6366F1?style=flat-square&logo=openai" />
+  <img src="https://img.shields.io/badge/Status-🔥%20In%20Development-orange?style=flat-square" />
+</p>
+
+An AI-powered resume analysis tool that provides smart feedback, skill extraction, and job-matching insights to help job seekers optimize their resumes.
+
+| Feature | Description |
+|---------|------------|
+| 🤖 | AI-powered resume parsing & analysis |
+| 📊 | Skill extraction & gap identification |
+| 🎯 | Job-match scoring & recommendations |
+| 📝 | Actionable improvement suggestions |
+| 🔒 | Secure document handling |
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">📓 Ask My Notes</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
+</p>
+
+An intelligent note-taking platform where you can chat with your notes using AI. Upload documents, ask questions, and get smart answers from your own knowledge base.
+
+| Feature | Description |
+|---------|------------|
+| 💬 | AI-powered Q&A over your notes |
+| 📄 | PDF & document upload support |
+| 🧠 | Smart context-aware responses |
+| 🎙️ | Voice transcription support |
+| 📝 | MCQ generation from notes |
+
+</td>
+</tr>
+
 <tr>
 <td width="50%" valign="top">
 
@@ -247,137 +296,131 @@ An interactive music experience with keyboard & mouse triggered drum sounds.
 ## 🎮 Game Development Portfolio
 
 <div align="center">
-<p>
-  <img src="https://img.shields.io/badge/Games%20Built-9-6366F1?style=for-the-badge&logo=unity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Engine-JavaScript%20Canvas-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-</div>
 
-<details>
-<summary>🕹️ <b>Click to Expand — View All Game Projects</b></summary>
-<br/>
+> 🕹️ **I'm passionate about game development!** Building games has strengthened my understanding of  
+> physics engines, collision detection, AI behavior, and real-time rendering — all with vanilla JavaScript.
+
+<p>
+  <img src="https://img.shields.io/badge/🎮%20Games%20Built-9-6366F1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Engine-JavaScript%20%2B%20Canvas-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Type-2D%20Games-10B981?style=for-the-badge&logo=unity&logoColor=white" />
+</p>
+
+</div>
 
 <div align="center">
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-#### 🐦 Flappy Bird Clone
-> Classic arcade game with smooth mechanics
+<h4 align="center">🐦 Flappy Bird Clone</h4>
+<p align="center"><img src="https://img.shields.io/badge/Arcade-Classic-blue?style=flat-square" /></p>
 
 - 🎮 Smooth gravity & jump physics
-- 🧱 Pipe obstacle & collision detection
+- 🧱 Pipe obstacle & collision
 - 📈 Real-time score tracking
-- ⚡ Optimized & responsive gameplay
+- ⚡ Optimized gameplay loop
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-#### 🔢 Number Guessing Game
-> Logic-based puzzle mini game
+<h4 align="center">🐍 Snake Game</h4>
+<p align="center"><img src="https://img.shields.io/badge/Arcade-Classic-blue?style=flat-square" /></p>
 
-- 🧠 Random number generation
-- 🎯 User input validation
-- 📊 Attempts counter
-- 💡 Improves problem-solving skills
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-#### 🧱 Platformer Game
-> 2D platform adventure experience
-
-- 🦘 Jump & gravity physics engine
-- 🧱 Tile-based level design
-- 📷 Smooth camera scrolling
-- 🎮 Responsive player control system
+- 🍎 Food spawning system
+- 📏 Dynamic snake growth
+- 💥 Wall & self collision
+- 📊 High-score tracking
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-#### 🏓 Pong Game
-> Classic retro arcade game
+<h4 align="center">🧟 Zombie Survival</h4>
+<p align="center"><img src="https://img.shields.io/badge/Action-Survival-red?style=flat-square" /></p>
 
-- 🎮 Paddle movement mechanics
-- ⚽ Ball collision physics
-- 👥 Two-player mode
-- 📈 Live score tracking system
+- 🧟 Zombie enemy AI
+- 🌊 Wave-based spawning
+- 🔫 Weapon & shooting
+- ❤️ Health & survival system
 
 </td>
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-#### 🏎️ Racing Game
-> High-speed racing experience
+<h4 align="center">🏎️ Racing Game</h4>
+<p align="center"><img src="https://img.shields.io/badge/Racing-Speed-orange?style=flat-square" /></p>
 
 - 🏎️ Vehicle movement & controls
 - 🛣️ Track & obstacle system
 - ⏱️ Speed handling logic
-- 🎮 Engaging racing mechanics
+- 🎮 Engaging mechanics
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-#### 🔫 Shooting Game
-> 2D action shooter
+<h4 align="center">🔫 Shooting Game</h4>
+<p align="center"><img src="https://img.shields.io/badge/Action-Shooter-DC143C?style=flat-square" /></p>
 
 - 🎯 Shooting & aiming mechanics
 - 💥 Bullet & enemy collision
-- 🧠 Basic enemy AI behavior
+- 🧠 Basic enemy AI
 - ❤️ Health & scoring system
+
+</td>
+<td width="33%" valign="top">
+
+<h4 align="center">🧱 Platformer Game</h4>
+<p align="center"><img src="https://img.shields.io/badge/Adventure-2D-green?style=flat-square" /></p>
+
+- 🦘 Jump & gravity physics
+- 🧱 Tile-based level design
+- 📷 Smooth camera scrolling
+- 🎮 Player control system
 
 </td>
 </tr>
 
 <tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-#### 🐍 Snake Game
-> Classic snake arcade
+<h4 align="center">🏓 Pong Game</h4>
+<p align="center"><img src="https://img.shields.io/badge/Retro-Multiplayer-purple?style=flat-square" /></p>
 
-- 🍎 Food spawning system
-- 📏 Snake growth logic
-- 💥 Wall & self collision detection
-- 📊 High-score tracking
+- 🎮 Paddle movement mechanics
+- ⚽ Ball collision physics
+- 👥 Two-player mode
+- 📈 Live score tracking
 
 </td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
-#### ❌⭕ Tic Tac Toe
-> Two-player strategy game
+<h4 align="center">❌⭕ Tic Tac Toe</h4>
+<p align="center"><img src="https://img.shields.io/badge/Strategy-Puzzle-8B5CF6?style=flat-square" /></p>
 
-- 👥 Two-player local gameplay
-- 🧠 Win & draw condition logic
+- 👥 Two-player gameplay
+- 🧠 Win & draw logic
 - 🔄 Restart game feature
 - 🎨 Clean & minimal UI
 
 </td>
-</tr>
+<td width="33%" valign="top">
 
-<tr>
-<td width="50%" valign="top">
+<h4 align="center">🔢 Number Guessing</h4>
+<p align="center"><img src="https://img.shields.io/badge/Logic-Puzzle-teal?style=flat-square" /></p>
 
-#### 🧟 Zombie Survival Game
-> Wave-based survival shooter
-
-- 🧟 Zombie enemy AI
-- 🌊 Wave-based spawn system
-- 🔫 Weapon & shooting mechanics
-- ❤️ Player health & survival system
+- 🧠 Random number generation
+- 🎯 User input validation
+- 📊 Attempts counter
+- 💡 Problem-solving skills
 
 </td>
-<td width="50%"></td>
 </tr>
 </table>
 
 </div>
-</details>
 
 ---
 
