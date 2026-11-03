@@ -4,71 +4,117 @@
 <!-- ░░░░░░░░░░░░░░░░ ANIMATED HEADER BANNER ░░░░░░░░░░░░░░░░░ -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ankush%20Kumar&fontSize=80&fontAlignY=32&animation=twinkling&fontColor=fff&desc=Full-Stack%20Developer%20%E2%80%A2%20AI%20Enthusiast%20%E2%80%A2%20Cybersecurity%20Explorer&descAlignY=56&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Ankush%20Kumar&fontSize=72&fontAlignY=35&animation=twinkling&fontColor=fff&desc=Software%20Developer%20%7C%20Full-Stack%20Engineer%20%7C%20Open-Source%20Contributor&descAlignY=58&descSize=17" width="100%" alt="Ankush Kumar Header Banner" />
 
 <!-- Typing SVG Animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&random=false&width=700&height=80&lines=Building+Scalable+Web+Applications+%F0%9F%9A%80;Exploring+AI+%7C+Cybersecurity+%7C+Cloud+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&random=false&width=780&height=80&lines=Building+Scalable+Full-Stack+Web+Applications+%E2%9A%A1;Active+Open-Source+Contributor+%26+GSoC+%2F+LFX+Aspirant+%F0%9F%8C%8D;Exploring+AI-Powered+Systems+%26+Application+Security+%F0%9F%9B%A1%EF%B8%8F;Practicing+Java+DSA+%26+Core+Software+Architecture+%F0%9F%9A%80" alt="Typing SVG Animation" />
 </a>
 
 <br/>
 
-<!-- Profile Visitors + Stars -->
+<!-- Profile Badges & Live Metrics -->
 <p>
   <img src="https://komarev.com/ghpvc/?username=ankushkumarake1234-lang&label=Profile%20Views&color=6366F1&style=for-the-badge" alt="Profile Views" />
   <a href="https://github.com/ankushkumarake1234-lang?tab=followers">
     <img src="https://img.shields.io/github/followers/ankushkumarake1234-lang?label=Followers&style=for-the-badge&logo=github&color=8B5CF6" alt="Followers" />
   </a>
   <a href="https://github.com/ankushkumarake1234-lang?tab=repositories">
-    <img src="https://img.shields.io/badge/Repos-Public-brightgreen?style=for-the-badge&logo=github&color=10B981" alt="Repos" />
+    <img src="https://img.shields.io/badge/Open%20Source-Contributing-10B981?style=for-the-badge&logo=git&logoColor=white" alt="Open Source Contributing" />
+  </a>
+</p>
+
+<!-- Quick Action Navigation -->
+<p>
+  <a href="https://ankush-kumar.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-6366F1?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/ankush-kumar-60333537b">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:ankushkumarake1234@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/ankushkumarake1234-lang">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
 </div>
 
+---
+
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!-- ░░░░░░░░░░░░░░░░░░░ ABOUT ME SECTION ░░░░░░░░░░░░░░░░░░░ -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hello, World! I'm Ankush Kumar
+## 🧑‍💻 About Me
 
-> **🎓 B.Tech in Computer Science & Engineering (AI Specialization) — 2nd Year**  
-> **🏫 Vedam School of Technology, Pune, Maharashtra, India**  
-> **🔗 Affiliated with Ajeenkya DY Patil University (ADYPU)**
+I am a **second-year Computer Science & Engineering student** (*AI Specialization*) at **Vedam School of Technology**, affiliated with **Ajeenkya DY Patil University (ADYPU)** in Pune, India.
 
-I'm a passionate and driven developer who loves building **full-stack web applications**, exploring **artificial intelligence & machine learning**, and diving deep into **cybersecurity**. I believe in writing clean, efficient code and creating digital experiences that truly make a difference.
+My engineering philosophy centers on **building real-world software, understanding systems under the hood, and contributing to open-source ecosystems**. Rather than treating software engineering as isolated syntax, I focus on building robust full-stack platforms, integrating artificial intelligence pragmatically, studying software architecture, and adopting security-first engineering practices.
+
+```text
+┌─────────────────────────────────────────────────────────────────────────────────────────┐
+│ 🎓 Education    : B.Tech in Computer Science & Engineering (2nd Year)                   │
+│ 🏫 Institution  : Vedam School of Technology (Affiliated with ADYPU, Pune)             │
+│ 🎯 Core Focus   : Full-Stack Web Development • Backend Engineering • Open-Source        │
+│ 🛡️ Security     : OWASP Top 10 • Application Security • Responsible Vulnerability Triage│
+│ 🌍 Aspirations  : Google Summer of Code (GSoC) & LFX Mentorship Preparation             │
+└─────────────────────────────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░░░░░░░ CURRENT FOCUS GRID ░░░░░░░░░░░░░░░░░░ -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
+## ⚡ Current Focus
+
+<div align="center">
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🧑‍💻 Quick Snapshot
-
-- 🔭 **Currently Working On:** [AI Resume Analyzer](https://github.com/ankushkumarake1234-lang) & AI-driven apps
-- 🌱 **Currently Learning:** Advanced JavaScript, RESTful APIs, Web Security
-- 🤖 **Exploring:** AI/ML integration in web platforms
-- 🎯 **2025–26 Goal:** Contribute to impactful open-source projects
-- 💬 **Ask Me About:** Web Dev, DSA, Cybersecurity, AI
-- ⚡ **Fun Fact:** I debug with `console.log()` and I'm proud of it! 🐛
+### 🔨 Building
+- **Full-Stack Applications**: Developing scalable, component-driven web apps using **React**, **Node.js**, **Express**, and **MongoDB**.
+- **AI-Integrated Products**: Creating real-world AI tools like **PALASH** (*multilingual educational tech*) and **Ask My Notes** (*RAG document Q&A*).
+- **Client Web Solutions**: Building accessible, performant landing pages and commercial interfaces.
 
 </td>
 <td width="50%" valign="top">
 
-### 🎯 Vision & Goals
+### 📚 Learning
+- **Core CS & Java DSA**: Strengthening algorithmic problem solving (Arrays, Sliding Window, Recursion, Sorting, Trees).
+- **Backend Architecture**: Deepening understanding of asynchronous concurrency, REST API contracts, and JWT authentication flows.
+- **Application Security**: Studying the **OWASP Top 10**, secure session handling, and defensive coding techniques.
 
-- 🚀 Become a **professional software engineer** at a leading tech company
-- 🌍 Build products that **solve real-world problems**
-- 🤝 Actively **contribute to open-source** communities
-- 📚 Continuously **learn & teach** emerging technologies
-- 🛡️ Specialize in **secure application development**
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧪 Exploring
+- **Microservices & Caching**: Investigating caching layers with **Redis** and relational schemas with **PostgreSQL**.
+- **Speech & Multimodal AI**: Experimenting with Speech-to-Text (STT) and Text-to-Speech (TTS) pipelines for regional language interaction.
+- **System Design Fundamentals**: Learning database indexing, API rate limiting, and modular monolithic design.
+
+</td>
+<td width="50%" valign="top">
+
+### 🌍 Looking to Contribute
+- **GSoC & LFX Mentorship Target Orgs**: Studying contribution guidelines, testing suites, and issue trackers of active open-source foundations.
+- **Issue Reproduction & Triage**: Investigating production bugs in large codebases (e.g. **Rocket.Chat** image previews & upload flows).
+- **Security Research**: Researching DNS configurations and domain takeover patterns in community vulnerability trackers.
 
 </td>
 </tr>
 </table>
-
-<div align="center">
-
-### 💭 *"Code is like humor. When you have to explain it, it's bad."* — Cory House
 
 </div>
 
@@ -78,68 +124,88 @@ I'm a passionate and driven developer who loves building **full-stack web applic
 <!-- ░░░░░░░░░░░░░░░░░ TECH STACK SECTION ░░░░░░░░░░░░░░░░░░░ -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Technical Skills
 
 <div align="center">
 
+### 💻 Languages & Core Runtime
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,python,c,html,css&theme=dark" alt="Languages" />
+</p>
+<sub>Java • JavaScript (ES6+) • Python • C • HTML5 • CSS3</sub>
+
+<br/><br/>
+
 <table>
 <tr>
-<td align="center" width="33%">
+<td width="33%" align="center" valign="top">
 
-#### 🎨 Frontend
+#### 🎨 Frontend Development
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" alt="Frontend" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,vite&theme=dark" alt="Frontend" />
 </p>
-<sub>HTML5 • CSS3 • JavaScript • React</sub>
+<sub>React.js • Tailwind CSS • Bootstrap • Vite</sub>
+<br/>
+<sub>Component Hierarchy • Responsive UI • State Management</sub>
 
 </td>
-<td align="center" width="33%">
+<td width="33%" align="center" valign="top">
 
-#### ⚙️ Backend
+#### ⚙️ Backend & APIs
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" alt="Backend" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,postman&theme=dark" alt="Backend" />
 </p>
-<sub>Node.js • Express.js • MongoDB • Firebase</sub>
+<sub>Node.js • Express.js • RESTful APIs</sub>
+<br/>
+<sub>JWT Authentication • Middleware Design • API Testing</sub>
 
 </td>
-<td align="center" width="33%">
+<td width="33%" align="center" valign="top">
 
-#### 🧠 Languages
+#### 🗄️ Databases & Storage
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,c&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,postgres,redis&theme=dark" alt="Databases" />
 </p>
-<sub>Java • Python • JavaScript • C</sub>
+<sub>MongoDB • Firebase • PostgreSQL* • Redis*</sub>
+<br/>
+<sub>CRUD Operations • Schema Modeling • <i>*Exploring</i></sub>
 
 </td>
 </tr>
 <tr>
-<td align="center" width="33%">
+<td width="33%" align="center" valign="top">
 
-#### 🔧 Dev Tools
+#### 🧠 AI & Intelligent Systems
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Tools" />
+  <img src="https://img.shields.io/badge/Gemini%20API-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/OpenAI%20APIs-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
 </p>
-<sub>Git • GitHub • VS Code • Postman</sub>
+<sub>LLM Integration • Document Parsing • RAG Concepts</sub>
+<br/>
+<sub>Prompt Engineering • Multilingual NLP Pipelines</sub>
 
 </td>
-<td align="center" width="33%">
+<td width="33%" align="center" valign="top">
 
-#### 🎯 Specializations
+#### 🛡️ Security & Defensive Coding
 <p>
-  <img src="https://img.shields.io/badge/DSA-FF6F00?style=for-the-badge&logo=algolia&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI%2FML-8A2BE2?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP-Top%2010-000000?style=for-the-badge&logo=owasp&logoColor=white" alt="OWASP" />
+  <img src="https://img.shields.io/badge/AppSec-Defensive-DC143C?style=for-the-badge&logo=securityscorecard&logoColor=white" alt="AppSec" />
 </p>
-<sub>Data Structures & Algorithms • AI/ML</sub>
+<sub>Web App Security • Input Validation • Auth Controls</sub>
+<br/>
+<sub>Subdomain Takeover Research • Secure Coding</sub>
 
 </td>
-<td align="center" width="33%">
+<td width="33%" align="center" valign="top">
 
-#### 🛡️ Security
+#### 🔧 Developer Tools & DevOps
 <p>
-  <img src="https://img.shields.io/badge/Cybersecurity-000?style=for-the-badge&logo=hackaday&logoColor=white" />
-  <img src="https://img.shields.io/badge/Web%20Security-DC143C?style=for-the-badge&logo=letsencrypt&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash&theme=dark" alt="Tools" />
 </p>
-<sub>Cybersecurity • Web App Security</sub>
+<sub>Git • GitHub • VS Code • Linux • Bash</sub>
+<br/>
+<sub>Branch Workflows • Code Reviews • Netlify / Vercel</sub>
 
 </td>
 </tr>
@@ -156,130 +222,72 @@ I'm a passionate and driven developer who loves building **full-stack web applic
 ## 🚀 Featured Projects
 
 <div align="center">
-<p>
-  <img src="https://img.shields.io/badge/Total%20Projects-6+-6366F1?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20%26%20AI-8B5CF6?style=for-the-badge&logo=code&logoColor=white" />
-</p>
-</div>
-
-<div align="center">
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">📄 AI Resume Analyzer</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/AI-Powered-6366F1?style=flat-square&logo=openai" />
-  <img src="https://img.shields.io/badge/Status-🔥%20In%20Development-orange?style=flat-square" />
-</p>
+### 🗣️ PALASH — Multilingual Education AI Suite
+*Smart India Hackathon (SIH) Project Exploration*
 
-An AI-powered resume analysis tool that provides smart feedback, skill extraction, and job-matching insights to help job seekers optimize their resumes.
-
-| Feature | Description |
-|---------|------------|
-| 🤖 | AI-powered resume parsing & analysis |
-| 📊 | Skill extraction & gap identification |
-| 🎯 | Job-match scoring & recommendations |
-| 📝 | Actionable improvement suggestions |
-| 🔒 | Secure document handling |
+- **Problem:** Teachers delivering Mother Tongue-Based Multilingual Education (MTB-MLE) in tribal regions face severe shortages of localized teaching materials in languages like **Ho**, **Mundari**, and **Santhali**.
+- **Implementation:** Designed an AI-assisted translation and curriculum generator that creates foundational literacy lesson scripts, contextual assessment questions, and synthesized voice audio from Hindi curricula.
+- **Tech Stack:** `React` • `Node.js` • `Python` • `NLP APIs` • `Audio Synthesis Models`
+- **Role:** Designed the architectural pipeline, user interface, and API orchestration.
+- **Repository:** [View on GitHub](https://github.com/ankushkumarake1234-lang)
 
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">📓 Ask My Notes</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/AI-Gemini-4285F4?style=flat-square&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
-</p>
+### 📓 Ask My Notes — AI-Powered Knowledge Base
+*Intelligent Document Q&A & Revision Platform*
 
-An intelligent note-taking platform where you can chat with your notes using AI. Upload documents, ask questions, and get smart answers from your own knowledge base.
-
-| Feature | Description |
-|---------|------------|
-| 💬 | AI-powered Q&A over your notes |
-| 📄 | PDF & document upload support |
-| 🧠 | Smart context-aware responses |
-| 🎙️ | Voice transcription support |
-| 📝 | MCQ generation from notes |
+- **Problem:** Students struggle to navigate large sets of academic PDFs and revision notes during tight exam schedules.
+- **Implementation:** Full-stack knowledge assistant enabling students to upload documents, execute semantic question-answering over their notes, generate automated MCQs for self-assessment, and use voice input.
+- **Tech Stack:** `React` • `Node.js` • `Express` • `Gemini API` • `Multer`
+- **Role:** Developed the end-to-end full-stack workflow, document processing, and prompt pipeline.
+- **Repository:** [View on GitHub](https://github.com/ankushkumarake1234-lang)
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🏥 Smart Health Tracker</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/MERN-Full%20Stack-blue?style=flat-square&logo=react" />
-  <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
-</p>
+### 📄 AI Resume Analyzer — ATS Scoring & Skill Gap Tool
+*Smart Career Tool for Job Seekers*
 
-A comprehensive health monitoring system that empowers users to track and improve their wellbeing.
-
-| Feature | Description |
-|---------|------------|
-| 📊 | Comprehensive health score calculation |
-| 💓 | Tracks BMI, sleep, steps & heart rate |
-| 🔒 | Secure user data management |
-| 📱 | Fully responsive & intuitive UI |
+- **Problem:** Job applicants lack automated, constructive feedback on how well their resumes match job descriptions before applying.
+- **Implementation:** An automated parsing engine that inspects uploaded resumes, extracts core skills, identifies missing competencies, and scores job alignment with actionable improvement points.
+- **Tech Stack:** `JavaScript (ES6+)` • `Node.js` • `Express` • `LLM Integration`
+- **Role:** Built the extraction pipeline, analysis scoring logic, and backend API endpoints.
+- **Repository:** [View on GitHub](https://github.com/ankushkumarake1234-lang)
 
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">🤖 AI Doctor</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/AI-Powered-purple?style=flat-square&logo=openai" />
-  <img src="https://img.shields.io/badge/Status-Active-success?style=flat-square" />
-</p>
+### 🏥 Smart Health Tracker — Comprehensive Wellness System
+*Full-Stack Health & Habit Monitoring Platform*
 
-An intelligent symptom checker powered by artificial intelligence for quick health diagnostics.
-
-| Feature | Description |
-|---------|------------|
-| 🩺 | AI-driven health diagnostics |
-| 💡 | Symptom-based condition suggestions |
-| 🎯 | Smart pattern recognition engine |
-| ⚡ | Fast & accurate predictions |
+- **Problem:** Users need an intuitive, unified platform to monitor daily physical vitals and health progress without cumbersome interfaces.
+- **Implementation:** MERN-based health monitoring application computing holistic wellness scores, logging BMI, sleep cycles, and daily activity metrics with responsive visual dashboards.
+- **Tech Stack:** `React` • `Node.js` • `Express` • `MongoDB` • `Chart.js`
+- **Role:** Full-stack development, database schema modeling, and dashboard UI design.
+- **Repository:** [View on GitHub](https://github.com/ankushkumarake1234-lang)
 
 </td>
 </tr>
+</table>
 
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="100%" valign="top">
 
-<h3 align="center">📝 Notes App</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-Vanilla-yellow?style=flat-square&logo=javascript" />
-  <img src="https://img.shields.io/badge/Storage-LocalStorage-orange?style=flat-square" />
-</p>
+### 💼 Commercial & Freelance Web Engineering
+*Translating Real Business Requirements into Performant Web Solutions*
 
-A smart, minimal notes management app with persistent local storage.
-
-| Feature | Description |
-|---------|------------|
-| ✍️ | Create, edit & delete notes |
-| 💾 | Persistent local storage |
-| 🎨 | Clean & minimal interface |
-| ⚡ | Lightning-fast performance |
-
-</td>
-<td width="50%" valign="top">
-
-<h3 align="center">🥁 Drum Kit</h3>
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-Interactive-F7DF1E?style=flat-square&logo=javascript" />
-  <img src="https://img.shields.io/badge/Web%20Audio-API-4B0082?style=flat-square" />
-</p>
-
-An interactive music experience with keyboard & mouse triggered drum sounds.
-
-| Feature | Description |
-|---------|------------|
-| 🎹 | Keyboard-triggered sound events |
-| 🎵 | Multiple drum sound samples |
-| 🖱️ | Mouse & keyboard support |
-| ✨ | Engaging visual feedback |
+- **Focus:** Collaborated with clients and local businesses to design, develop, and deploy responsive websites and interactive landing pages.
+- **Key Deliverables:** Clean semantic HTML5, modular CSS/Tailwind layouts, fast load times, and intuitive cross-device UX.
+- **Live Portfolio:** [ankush-kumar.netlify.app](https://ankush-kumar.netlify.app/)
 
 </td>
 </tr>
@@ -290,137 +298,86 @@ An interactive music experience with keyboard & mouse triggered drum sounds.
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
-<!-- ░░░░░░░░░░░░░ GAME DEVELOPMENT SECTION ░░░░░░░░░░░░░░░░░ -->
+<!-- ░░░░░░░░░░░░░ OPEN SOURCE ENGINEERING ░░░░░░░░░░░░░░░░░░░ -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## 🎮 Game Development Portfolio
+## 🌍 Open-Source Engineering Journey
 
-<div align="center">
+> *"Tutorials teach you how to write code. Open source teaches you how real software engineering works in production."*
 
-> 🕹️ **I'm passionate about game development!** Building games has strengthened my understanding of  
-> physics engines, collision detection, AI behavior, and real-time rendering — all with vanilla JavaScript.
+Contributing to open-source software is central to my development as an engineer. I am actively preparing for **Google Summer of Code (GSoC)** and the **Linux Foundation Mentorship (LFX)** by studying large upstream repositories, practicing Git hygiene, and submitting verified pull requests.
 
-<p>
-  <img src="https://img.shields.io/badge/🎮%20Games%20Built-9-6366F1?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Engine-JavaScript%20%2B%20Canvas-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Type-2D%20Games-10B981?style=for-the-badge&logo=unity&logoColor=white" />
-</p>
+### 📌 Verified Upstream Contributions
 
-</div>
+- **[EdOverflow/can-i-take-over-xyz](https://github.com/EdOverflow/can-i-take-over-xyz) — [Pull Request #486](https://github.com/EdOverflow/can-i-take-over-xyz/pull/486)**
+  - **Contribution:** Added missing CNAME domain mappings for *Cargo Collective* (`subdomain.cargocollective.com`, `cargocollective.com`) to the industry-standard subdomain takeover fingerprint directory.
+  - **Impact:** Enhanced automated subdomain takeover reconnaissance rules used by security researchers and open-source tools worldwide.
+- **[hiperhealth/hiperhealth](https://github.com/hiperhealth/hiperhealth) — [Pull Request #229](https://github.com/hiperhealth/hiperhealth/pull/229)**
+  - **Contribution:** Contributed to codebase development, structured research documentation, and issue resolution for community health technology.
 
-<div align="center">
+### 🔍 Production Codebase Investigation & Triage
 
-<table>
-<tr>
-<td width="33%" valign="top">
+- **Rocket.Chat Ecosystem Exploration:**
+  - Navigated the multi-package **Rocket.Chat** production repository to understand enterprise-grade Meteor, TypeScript, and React architecture.
+  - Diagnosed and worked on root causes for the **HEIC image preview** rendering issue.
+  - Investigated file drag-and-drop duplicate upload handler workflows.
+  - Learned enterprise contribution protocols: semantic commit standards, branch protection rules, rebase workflows, and peer reviews.
 
-<h4 align="center">🐦 Flappy Bird Clone</h4>
-<p align="center"><img src="https://img.shields.io/badge/Arcade-Classic-blue?style=flat-square" /></p>
+---
 
-- 🎮 Smooth gravity & jump physics
-- 🧱 Pipe obstacle & collision
-- 📈 Real-time score tracking
-- ⚡ Optimized gameplay loop
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░░░ CYBERSECURITY & APPLICATION SECURITY ░░░░░░░░ -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-</td>
-<td width="33%" valign="top">
+## 🛡️ Cybersecurity & Application Security
 
-<h4 align="center">🐍 Snake Game</h4>
-<p align="center"><img src="https://img.shields.io/badge/Arcade-Classic-blue?style=flat-square" /></p>
+I approach cybersecurity with an emphasis on **responsible, ethical, and permission-based engineering**. Building secure software requires understanding how vulnerabilities arise at the code and network levels.
 
-- 🍎 Food spawning system
-- 📏 Dynamic snake growth
-- 💥 Wall & self collision
-- 📊 High-score tracking
+```mermaid
+graph LR
+    A["🌐 Web Request"] --> B["🛡️ Input Validation & Sanitization"]
+    B --> C["🔑 Authentication & Authorization (JWT/OAuth)"]
+    C --> D["⚡ Secure Business Logic & API Layer"]
+    D --> E["🗄️ Protected Data & Encrypted Storage"]
 
-</td>
-<td width="33%" valign="top">
+    style A fill:#1E293B,stroke:#64748B,color:#fff
+    style B fill:#0369A1,stroke:#0284C7,color:#fff
+    style C fill:#4338CA,stroke:#6366F1,color:#fff
+    style D fill:#6D28D9,stroke:#8B5CF6,color:#fff
+    style E fill:#047857,stroke:#10B981,color:#fff
+```
 
-<h4 align="center">🧟 Zombie Survival</h4>
-<p align="center"><img src="https://img.shields.io/badge/Action-Survival-red?style=flat-square" /></p>
+### Core Security Interests & Knowledge:
+- **OWASP Top 10 Awareness:** Understanding prevention mechanics for Cross-Site Scripting (XSS), Cross-Site Request Forgery (CSRF), Insecure Direct Object References (IDOR), and Injection vulnerabilities.
+- **Authentication & Session Security:** Implementing stateless authentication with JSON Web Tokens (JWT), secure HTTP-only cookies, password hashing (bcrypt), and role-based access control (RBAC).
+- **HTTP & Network Protocols:** Analyzing HTTP request/response lifecycles, CORS policy configurations, DNS resolution, and TLS handshakes.
+- **Subdomain Takeover Research:** Fingerprinting dangling DNS pointers, orphaned CNAME records, and cloud host de-allocations (practiced via contributions to `can-i-take-over-xyz`).
+- **Defensive Engineering:** Writing defensive code by default—validating schema on every API boundary and enforcing least-privilege database permissions.
 
-- 🧟 Zombie enemy AI
-- 🌊 Wave-based spawning
-- 🔫 Weapon & shooting
-- ❤️ Health & survival system
+---
 
-</td>
-</tr>
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ░░░░░░░░░░ ENGINEERING & PROBLEM SOLVING ░░░░░░░░░░░░░░░░░ -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-<tr>
-<td width="33%" valign="top">
+## 🧠 Engineering & Problem Solving
 
-<h4 align="center">🏎️ Racing Game</h4>
-<p align="center"><img src="https://img.shields.io/badge/Racing-Speed-orange?style=flat-square" /></p>
+To build scalable software, I dedicate time to mastering **Core Computer Science fundamentals and Data Structures & Algorithms in Java**.
 
-- 🏎️ Vehicle movement & controls
-- 🛣️ Track & obstacle system
-- ⏱️ Speed handling logic
-- 🎮 Engaging mechanics
+### Core Competencies in Java:
+- **Core Data Structures:** Arrays, Strings, HashMaps, Stacks, Queues, Deques, Linked Lists.
+- **Algorithmic Patterns:** Sliding Window, Two Pointers, Divide and Conquer, Recursion, Bit Manipulation.
+- **Sorting & Searching:** Binary Search, Merge Sort, Quick Sort, Insertion Sort, Bubble Sort.
+- **Object-Oriented Design:** Encapsulation, Inheritance, Polymorphism, Abstraction, and clean separation of concerns.
+- **Time & Space Complexity:** Rigorous Big-O analysis to prevent suboptimal quadratic bottlenecks in production code.
 
-</td>
-<td width="33%" valign="top">
-
-<h4 align="center">🔫 Shooting Game</h4>
-<p align="center"><img src="https://img.shields.io/badge/Action-Shooter-DC143C?style=flat-square" /></p>
-
-- 🎯 Shooting & aiming mechanics
-- 💥 Bullet & enemy collision
-- 🧠 Basic enemy AI
-- ❤️ Health & scoring system
-
-</td>
-<td width="33%" valign="top">
-
-<h4 align="center">🧱 Platformer Game</h4>
-<p align="center"><img src="https://img.shields.io/badge/Adventure-2D-green?style=flat-square" /></p>
-
-- 🦘 Jump & gravity physics
-- 🧱 Tile-based level design
-- 📷 Smooth camera scrolling
-- 🎮 Player control system
-
-</td>
-</tr>
-
-<tr>
-<td width="33%" valign="top">
-
-<h4 align="center">🏓 Pong Game</h4>
-<p align="center"><img src="https://img.shields.io/badge/Retro-Multiplayer-purple?style=flat-square" /></p>
-
-- 🎮 Paddle movement mechanics
-- ⚽ Ball collision physics
-- 👥 Two-player mode
-- 📈 Live score tracking
-
-</td>
-<td width="33%" valign="top">
-
-<h4 align="center">❌⭕ Tic Tac Toe</h4>
-<p align="center"><img src="https://img.shields.io/badge/Strategy-Puzzle-8B5CF6?style=flat-square" /></p>
-
-- 👥 Two-player gameplay
-- 🧠 Win & draw logic
-- 🔄 Restart game feature
-- 🎨 Clean & minimal UI
-
-</td>
-<td width="33%" valign="top">
-
-<h4 align="center">🔢 Number Guessing</h4>
-<p align="center"><img src="https://img.shields.io/badge/Logic-Puzzle-teal?style=flat-square" /></p>
-
-- 🧠 Random number generation
-- 🎯 User input validation
-- 📊 Attempts counter
-- 💡 Problem-solving skills
-
-</td>
-</tr>
-</table>
-
-</div>
+```text
+┌────────────────────────────────────────────────────────────────────────────────────────┐
+│ 🧩 Sample Algorithmic Challenges Explored:                                            │
+│ • Sliding Window Maximum    • Valid Anagram          • First Missing Positive          │
+│ • Basic Calculator II       • Number Complement      • Power of Four                   │
+└────────────────────────────────────────────────────────────────────────────────────────┘
+```
 
 ---
 
@@ -433,176 +390,14 @@ An interactive music experience with keyboard & mouse triggered drum sounds.
 <div align="center">
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ankushkumarake1234-lang&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6&text_color=C9D1D9&ring_color=6366F1" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankushkumarake1234-lang&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=ankushkumarake1234-lang&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6&text_color=C9D1D9&ring_color=6366F1" alt="Ankush's GitHub Stats" />
+  &nbsp;
+  <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankushkumarake1234-lang&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9" alt="Top Languages" />
 </p>
 
 <p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankushkumarake1234-lang&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=8B5CF6&currStreakLabel=6366F1&sideLabels=C9D1D9&dates=555555" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankushkumarake1234-lang&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=8B5CF6&currStreakLabel=6366F1&sideLabels=C9D1D9" alt="GitHub Streak Stats" />
 </p>
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- ░░░░░░░░░░░░░░░░░ TROPHY & ACHIEVEMENTS ░░░░░░░░░░░░░░░░░ -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 🏆 Achievements & Trophies
-
-<div align="center">
-
-<img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="40" /> &nbsp;
-<img src="https://img.shields.io/badge/✨%20Achievement-Showcase-FFD700?style=for-the-badge&labelColor=0D1117" />
-&nbsp; <img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif" width="40" />
-
-<br/><br/>
-
-<!-- Main Trophy Display - Multiple Themes for 3D Effect -->
-<img src="https://github-profile-trophy.vercel.app/?username=ankushkumarake1234-lang&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" width="95%" />
-
-<br/>
-
-<!-- Second Row with Different Theme for Visual Depth -->
-<img src="https://github-profile-trophy.vercel.app/?username=ankushkumarake1234-lang&theme=radical&no-frame=true&no-bg=true&row=1&column=4&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S" width="60%" />
-
-<br/><br/>
-
-<!-- 3D Contribution Calendar -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankushkumarake1234-lang/ankushkumarake1234-lang/main/profile-3d-contrib/profile-night-view.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ankushkumarake1234-lang/ankushkumarake1234-lang/main/profile-3d-contrib/profile-green-animate.svg" />
-  <img alt="3D Contribution Graph" src="https://raw.githubusercontent.com/ankushkumarake1234-lang/ankushkumarake1234-lang/main/profile-3d-contrib/profile-night-view.svg" width="95%" />
-</picture>
-
-<br/>
-
-<!-- Animated Stats Cards -->
-<table>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/🎯_Total_Commits-Dedicated-6366F1?style=for-the-badge&labelColor=0D1117" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/⭐_Total_Stars-Growing-8B5CF6?style=for-the-badge&labelColor=0D1117" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/🔥_Contributions-Active-10B981?style=for-the-badge&labelColor=0D1117" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/🚀_Projects-Building-F59E0B?style=for-the-badge&labelColor=0D1117" />
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- ░░░░░░░░░░░░░░░░░ LEARNING ROADMAP ░░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 🌱 Learning Roadmap — 2025–26
-
-<div align="center">
-
-```mermaid
-graph LR
-    A["✅ JavaScript Basics"] --> B["🔄 Advanced JS & ES6+"]
-    B --> C["🔄 Backend APIs (Express)"]
-    C --> D["🔜 Web Security & Auth"]
-    D --> E["🔜 Full-Stack Mastery"]
-    E --> F["🔜 Cloud & DevOps"]
-
-    style A fill:#10B981,stroke:#059669,color:#fff
-    style B fill:#3B82F6,stroke:#2563EB,color:#fff
-    style C fill:#F59E0B,stroke:#D97706,color:#fff
-    style D fill:#EF4444,stroke:#DC2626,color:#fff
-    style E fill:#8B5CF6,stroke:#7C3AED,color:#fff
-    style F fill:#EC4899,stroke:#DB2777,color:#fff
-```
-
-</div>
-
-<div align="center">
-
-| 🔥 Focus Area | 📌 Status | 📝 Details |
-|:---:|:---:|:---|
-| Async JavaScript & Promises | 🟢 In Progress | Mastering async/await, event loop & concurrency |
-| RESTful API Development | 🟢 In Progress | Building production-grade APIs with Express.js |
-| Authentication & Authorization | 🟡 Upcoming | JWT, OAuth 2.0, session management |
-| Web Application Security | 🟡 Upcoming | OWASP Top 10, secure coding practices |
-| AI/ML Integration | 🟡 Upcoming | Integrating ML models into web applications |
-| Cloud Deployment | ⚪ Planned | AWS / GCP basics, CI/CD pipelines |
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- ░░░░░░░░░░░░░░░ CONTRIBUTION SECTION ░░░░░░░░░░░░░░░░░░░ -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ankushkumarake1234-lang&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=6366F1&line=8B5CF6&point=E0E7FF&area=true&area_color=6366F180" width="95%" />
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankushkumarake1234-lang/ankushkumarake1234-lang/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ankushkumarake1234-lang/ankushkumarake1234-lang/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ankushkumarake1234-lang/ankushkumarake1234-lang/output/github-contribution-grid-snake.svg" width="95%">
-</picture>
-
-<br/><br/>
-
-<img src="https://ghchart.rshah.org/6366F1/ankushkumarake1234-lang" alt="Contribution Graph" width="95%" />
-
-</div>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!-- ░░░░░░░░░░░░░░░░░░ PORTFOLIO SECTION ░░░░░░░░░░░░░░░░░░░░ -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 🌐 My Portfolio
-
-<div align="center">
-
-<a href="https://ankush-kumar.netlify.app/">
-  <img src="https://img.shields.io/badge/🌐%20Visit%20My%20Portfolio-ankush--kumar.netlify.app-6366F1?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0D1117" alt="Portfolio" />
-</a>
-
-<br/><br/>
-
-<table>
-<tr>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/💼-Projects-6366F1?style=flat-square&labelColor=0D1117" />
-<br/><sub>Explore my work</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/🧑‍💻-About%20Me-8B5CF6?style=flat-square&labelColor=0D1117" />
-<br/><sub>Know my story</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/🛠️-Skills-10B981?style=flat-square&labelColor=0D1117" />
-<br/><sub>Tech I work with</sub>
-</td>
-<td align="center" width="25%">
-<img src="https://img.shields.io/badge/📬-Contact-F59E0B?style=flat-square&labelColor=0D1117" />
-<br/><sub>Let's connect</sub>
-</td>
-</tr>
-</table>
-
-> 🚀 **Check out my portfolio to see live demos, detailed project breakdowns, and more about my journey!**
 
 </div>
 
@@ -612,32 +407,29 @@ graph LR
 <!-- ░░░░░░░░░░░░░░░░░░ CONNECT SECTION ░░░░░░░░░░░░░░░░░░░░░ -->
 <!-- ═══════════════════════════════════════════════════════════ -->
 
-## 🤝 Let's Connect & Collaborate!
+## 🤝 Connect With Me
+
+Whether you want to discuss open-source projects, full-stack development, application security, or potential collaboration opportunities, my inbox is always open.
 
 <div align="center">
 
 <p>
-  <a href="mailto:ankushkumarake1234@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  &nbsp;
   <a href="https://linkedin.com/in/ankush-kumar-60333537b">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="https://github.com/ankushkumarake1234-lang">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="mailto:ankushkumarake1234@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;
   <a href="https://ankush-kumar.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio" />
   </a>
+  &nbsp;
+  <a href="https://github.com/ankushkumarake1234-lang">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
-
-<br/>
-
-> 💌 **I'm always open to collaborating on exciting projects and exploring new opportunities!**  
-> Feel free to reach out — let's build something amazing together.
 
 </div>
 
@@ -649,26 +441,11 @@ graph LR
 
 <div align="center">
 
-### ⚡ Dev Humor
+<sub>*"Great software isn't just written—it is designed, debugged, secured, and refined."*</sub><br/>
+<b>Ankush Kumar</b> • Computer Science Student & Open-Source Builder • Pune, India 🇮🇳
 
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder&bgColor=0D1117" alt="Developer Joke" />
+<br/>
 
-<br/><br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-
-<br/><br/>
-
----
-
-<p>
-  <b>⭐ If you find my work interesting, consider giving a star!</b>
-</p>
-
-**Made with ❤️ by [Ankush Kumar](https://github.com/ankushkumarake1234-lang) — Pune, India 🇮🇳**
-
-<sub>🚀 Always learning, always building, always shipping.</sub>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="Footer Wave" />
 
 </div>
